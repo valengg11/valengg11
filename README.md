@@ -6,7 +6,6 @@ I´m a creative and ingenious software developer, I decided to re-focus my profe
 
 I´m passionate about facing challenges, learning new things, and connecting with people who motivate me and inspire me to be better.
 
-### Goals
 I´m forward to improve my skills as a frontend developer and find a job where I can put into practice my knowledge, contribute to the creation of real-problem solutions, challenge myself every time, and work with a great team.
 
 
