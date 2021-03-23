@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**valengg11/valengg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Valentina Gómez Giraldo!
 
-Here are some ideas to get you started:
+I´m a creative and ingenious software developer, I decided to re-focus my professional career to the web development world, and couldn't be happier with my decision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m passionate about facing challenges, learning new things, and connecting with people who motivate me and inspire me to be better.
+
+### Goals
+I´m forward to improve my skills as a frontend developer and find a job where I can put into practice my knowledge, contribute to the creation of real-problem solutions, challenge myself every time, and work with a great team.
+
+
+
+- 🔭 I’m currently working on personal projects to improve my skills.
+- 🌱 I’m currently learning about React and Redux.
+
+Thanks for reading it all the way to the end!
+
