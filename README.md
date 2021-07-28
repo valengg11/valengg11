@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! ⚡
 ## I am Valentina Gómez Giraldo 🔭
 
 I´m a creative and ingenious **software developer** and **civil engineer**, I decided to re-focus my professional career to the web development world, and couldn't be happier with my decision.
@@ -10,31 +10,42 @@ I´m forward to improve my skills as a frontend developer and find a job where I
 <details open="">
 	<summary><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br>
-	<img src="https://camo.githubusercontent.com/9654203b6d60383e8236fca11a80c84adf8922d8501e17a2d838a15a2ce55ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233663764653165" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23f7de1e" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/8f7972432575bdb70b3c23516902a920a6d012d5948f59766b134f3013f686bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532336533346632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23e34f26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/a0a7816d09a85924ca9c52822aeea95062b3c6f2c91143e077cadb75c4a8b823/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333335373362352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%233573b5.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/df430cba0f03c78d0d3bba17441fd28a24aa8bb4154c0bfa5c0761e18cfb0756/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333030633465362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="React" data-canonical-src="https://img.shields.io/badge/react-%2300c4e6.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width:100%;">
-<img src="https://camo.githubusercontent.com/a09f569edae49a5be3071e3e8e76521bdda18716bcd5ea8185818aba31179973/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532336663366432362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/git-%23fc6d26.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt='javascript'>
+<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;" alt='html'>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;" alt='css'>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" alt='python'>
+<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width:100%;" alt='react'>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width:100%;" alt='react-router'>	
+<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;" alt='git'>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width:100%;" alt='bootstrap'>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="max-width:100%;" alt='styled-components'>	
 </details>
 
+<details open=""> 
+	<summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=valengg11&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="top"  style="max-width:100%;">	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valengg11&layout=compact&&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="top"  style="max-width:100%;">
+</details>
 
 
 <details open="">
-	<summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br>
-	<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=valengg11&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=valengg11&show_icons=true&theme=radical" alt="GitHub Stats" align="top"  style="max-width:100%;"></a>	
-	<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=valengg11&layout=compact&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valengg11&layout=compact&&show_icons=true&theme=radical" alt="GitHub Stats" align="top"  style="max-width:100%;"></a>
+	<summary><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🔍</g-emoji>&nbsp;&nbsp;&nbsp;<b>Find me on</b></summary>
+<br>
+<a href="https://www.linkedin.com/in/valengg/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+</details>	
+		
+
+<details open="">
+	<summary><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">☎</g-emoji>&nbsp;&nbsp;&nbsp;<b>Contact me at</b></summary>
+<br>
+<a href="https://wa.me/573193528738" target="_blank" className={styles.float} rel="noreferrer">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width:100%;" alt='whatsapp'></img>
+      </a>
+
+<a href="mailto:valentinagomezgiraldo11@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"></a>
 </details>
 
-<p>
-You can find me on:
-</p>
-<p>
-<a href="https://www.linkedin.com/in/valengg/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-</p>	
 
-You can contact me at <a href="mailto:valentinagomezgiraldo11@gmail.com">valentinagomezgiraldo11@gmail.com</a>
-
-
-Thanks for reading it all!
+### Thanks for reading it all! 
 
