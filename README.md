@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## I am Valentina Gómez Giraldo 🔭
 
-I´m a creative and ingenious **software developer**, I decided to re-focus my professional career to the web development world, and couldn't be happier with my decision.
+I´m a creative and ingenious **software developer** and **civil engineer**, I decided to re-focus my professional career to the web development world, and couldn't be happier with my decision.
 
 I´m passionate about **facing challenges**, learning new things, and connecting with people who motivate me and inspire me to be better.
 
