@@ -47,5 +47,5 @@ I´m forward to improve my skills as a frontend developer and find a job where I
 </details>
 
 
-### Thanks for reading it all! 
+### Thanks for reading it all! 🌻
 
