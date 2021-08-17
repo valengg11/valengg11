@@ -5,7 +5,7 @@ I´m a creative and ingenious **software developer** and **civil engineer**, I d
 
 I´m passionate about **facing challenges**, learning new things, and connecting with people who motivate me and inspire me to be better.
 
-I´m forward to improve my skills as a frontend developer and find a job where I can put into practice my knowledge, contribute to the creation of real-problem solutions, challenge myself every time, and work with a great team.
+I´m forward to improve my skills as a frontend developer, contribute to the creation of real-problem solutions, challenge myself every time, and work with a great team.
 
 <details open="">
 	<summary><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
