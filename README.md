@@ -13,12 +13,17 @@ I´m forward to improve my skills as a frontend developer, contribute to the cre
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt='javascript'>
 <img src="https://img.shields.io/badge/html5-%23e34f26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;" alt='html'>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;" alt='css'>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width:100%;" alt='sass'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" alt='python'>
 <img src="https://img.shields.io/badge/react-%2300c4e6.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width:100%;" alt='react'>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width:100%;" alt='react-router'>	
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;" alt='git'>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width:100%;" alt='bootstrap'>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="max-width:100%;" alt='styled-components'>	
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width:100%;" alt='firebase'>	
+	
+	
+	
 </details>
 
 <details open=""> 
