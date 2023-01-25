@@ -30,7 +30,7 @@ I´m forward to improve my skills as a frontend developer, contribute to the cre
 <details open=""> 
 	<summary><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br>
-	<img src="https://github-readme-stats.vercel-sigma-five.app/api?username=valengg11&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="top"  style="max-width:100%;">	
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=valengg11&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="top"  style="max-width:100%;">	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valengg11&layout=compact&&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="top"  style="max-width:100%;">
 </details>
 
