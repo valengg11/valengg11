@@ -24,7 +24,7 @@ I´m forward to improve my skills as a frontend developer, contribute to the cre
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width:100%;" alt='bootstrap'>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="max-width:100%;" alt='styled-components'>	
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width:100%;" alt='firebase'>
-<img src="[https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)" style="max-width:100%;" alt='google-analytics'>	
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" style="max-width:100%;" alt='google-analytics'>	
 	
 	
 	
