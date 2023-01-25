@@ -16,6 +16,7 @@ I´m forward to improve my skills as a frontend developer, contribute to the cre
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width:100%;" alt='sass'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" alt='python'>
 <img src="https://img.shields.io/badge/react-%2300c4e6.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width:100%;" alt='react'>
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" style="max-width:100%;" alt='svelte'>	
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width:100%;" alt='redux'>	
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width:100%;" alt='react-router'>	
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width:100%;" alt='git'>
