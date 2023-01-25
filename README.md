@@ -14,6 +14,7 @@ I´m forward to improve my skills as a frontend developer, contribute to the cre
 <img src="https://img.shields.io/badge/html5-%23e34f26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;" alt='html'>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;" alt='css'>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width:100%;" alt='sass'>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width:100%;" alt='tailwind'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" alt='python'>
 <img src="https://img.shields.io/badge/react-%2300c4e6.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" style="max-width:100%;" alt='react'>
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" style="max-width:100%;" alt='svelte'>	
